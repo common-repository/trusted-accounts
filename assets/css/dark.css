@@ -1,0 +1,34 @@
+.trusted-button {
+    background: #2E31FF !important;
+    color: white !important;
+}
+
+.ta-login-after-box {
+    color: gray;
+}
+
+.ta-info-box {
+    background: #EAEAFF !important;
+    color: #2E31FF !important;
+}
+
+.ta-info-box > img {
+    /*filter: invert(96%) sepia(39%) saturate(2995%) hue-rotate(183deg) brightness(123%) contrast(99%);*/
+}
+
+.ta-verification-box > .link-black {
+    color: #2E31FF;
+}
+
+.ta-success-popup {
+    background: #2E31FF;
+    color: white;
+}
+
+.ta-success-popup > small {
+    font-weight: 600;
+}
+
+.ta-success-popup > img {
+    filter: invert(96%) sepia(39%) saturate(2995%) hue-rotate(183deg) brightness(123%) contrast(99%);
+}

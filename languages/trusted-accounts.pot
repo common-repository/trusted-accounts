@@ -1,0 +1,231 @@
+# Copyright (C) 2024 Trusted Accounts
+# This file is distributed under the same license as the Trusted Accounts: Get abusive user accounts under control plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Trusted Accounts: Get abusive user accounts under control 3.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordpress-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-29T09:28:27+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: trusted-accounts\n"
+
+#. Plugin Name of the plugin
+#: ta_controller.php
+msgid "Trusted Accounts: Get abusive user accounts under control"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: ta_controller.php
+msgid "https://www.trustedaccounts.org"
+msgstr ""
+
+#. Description of the plugin
+#: ta_controller.php
+msgid "Stop harmful users from creating multiple accounts and protect your platform from fraud, spam and abuse."
+msgstr ""
+
+#. Author of the plugin
+#: ta_controller.php
+msgid "Trusted Accounts"
+msgstr ""
+
+#: layout/ta_profile.php:29
+msgid "User Verification Details"
+msgstr ""
+
+#: layout/ta_profile.php:32
+msgid "Validated email"
+msgstr ""
+
+#: layout/ta_profile.php:41
+#: layout/ta_profile.php:214
+msgid "Verified"
+msgstr ""
+
+#: layout/ta_profile.php:49
+msgid "Verification Level"
+msgstr ""
+
+#: layout/ta_profile.php:61
+msgid "Phone Country Code"
+msgstr ""
+
+#: layout/ta_profile.php:72
+msgid "Unique Browser Fingerprint"
+msgstr ""
+
+#: layout/ta_profile.php:87
+msgid "Email valid"
+msgstr ""
+
+#: layout/ta_profile.php:102
+msgid "More user details"
+msgstr ""
+
+#: layout/ta_profile.php:104
+msgid "Show user details"
+msgstr ""
+
+#: layout/ta_profile.php:112
+#: layout/ta_profile.php:114
+msgid "Remove verification"
+msgstr ""
+
+#: layout/ta_profile.php:115
+msgid "When you remove the verification this user will be able to verify another account with the same Trusted Account or phone number."
+msgstr ""
+
+#: layout/ta_profile.php:124
+msgid "Account Verification (by Trusted Accounts)"
+msgstr ""
+
+#: layout/ta_profile.php:131
+#: ta_controller.php:43
+msgid "Login with Trusted"
+msgstr ""
+
+#: layout/ta_profile.php:135
+msgid "Enable \"Login with Trusted\" for this account"
+msgstr ""
+
+#: layout/ta_profile.php:188
+msgid "Trusted Accounts Information"
+msgstr ""
+
+#: layout/ta_profile.php:192
+msgid "Browser Fingerprint"
+msgstr ""
+
+#: layout/ta_profile.php:206
+msgid "Blocked"
+msgstr ""
+
+#: ta_controller.php:47
+msgid "With Trusted you can login and verify while remaining anonymous."
+msgstr ""
+
+#: ta_controller.php:50
+#: ta_controller.php:75
+msgid "OR"
+msgstr ""
+
+#: ta_controller.php:68
+msgid "Register with Trusted"
+msgstr ""
+
+#: ta_controller.php:72
+msgid "With Trusted you can register and verify while remaining anonymous."
+msgstr ""
+
+#: ta_controller.php:92
+msgid "Verify with Trusted"
+msgstr ""
+
+#: ta_controller.php:96
+msgid "Prove you are real and unique while remaining anonymous."
+msgstr ""
+
+#: ta_controller.php:104
+msgid "Please prove you are human to comment on this post. It will take less than a minute."
+msgstr ""
+
+#: ta_controller.php:107
+#: ta_shortcodes.php:15
+msgid "I am human"
+msgstr ""
+
+#: ta_controller.php:253
+msgid "Successfully saved the configuration."
+msgstr ""
+
+#: ta_controller.php:297
+msgid "Your account has been blocked on this platform."
+msgstr ""
+
+#: ta_controller.php:298
+#: ta_controller.php:352
+#: ta_controller.php:364
+msgid "Go back"
+msgstr ""
+
+#: ta_controller.php:351
+msgid "This Trusted Account has already been used to verify an account on this platform. You can only verify one account per Trusted Account."
+msgstr ""
+
+#: ta_controller.php:363
+msgid "This Trusted Account is verified, but does not have the \"Login with Trusted\" activated. Please use another login method."
+msgstr ""
+
+#: ta_controller.php:424
+msgid "Verified with Trusted"
+msgstr ""
+
+#: ta_controller.php:444
+msgid "Reply to this comment"
+msgstr ""
+
+#: ta_controller.php:561
+msgid "Verify to reply"
+msgstr ""
+
+#: ta_popup.php:52
+#: ta_popup.php:102
+msgid "Settings successfully saved. You are all set."
+msgstr ""
+
+#: ta_popup.php:118
+msgid "This username already exists on this platform."
+msgstr ""
+
+#: ta_popup.php:119
+msgid "This email already exists on this platform."
+msgstr ""
+
+#: ta_popup.php:120
+msgid "Please provide an email address."
+msgstr ""
+
+#: ta_popup.php:121
+msgid "Please provide a username."
+msgstr ""
+
+#: ta_popup.php:122
+msgid "This platform requires at least an email address."
+msgstr ""
+
+#: ta_popup.php:132
+msgid "Setup profile"
+msgstr ""
+
+#: ta_popup.php:133
+msgid "Choose what information you want to share with this platform or just skip."
+msgstr ""
+
+#: ta_popup.php:139
+msgid "Verified & anonymous"
+msgstr ""
+
+#: ta_popup.php:140
+msgid "You have successfully registered and verified your anonymous account."
+msgstr ""
+
+#: ta_popup.php:146
+msgid "Email"
+msgstr ""
+
+#: ta_popup.php:147
+msgid "Username"
+msgstr ""
+
+#: ta_popup.php:149
+msgid "Save"
+msgstr ""
+
+#: ta_popup.php:150
+msgid "Skip"
+msgstr ""

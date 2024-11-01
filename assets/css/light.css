@@ -1,0 +1,37 @@
+.ta-login-after-box {
+    color: white;
+}
+
+.ta-button-icon {
+    filter: invert(79%) sepia(93%) saturate(4871%) hue-rotate(243deg) brightness(97%) contrast(108%);
+}
+
+.ta-info-box {
+    background: #F4F4FF;
+    color: #2E31FF;
+}
+
+.trusted-button {
+    background: white !important;
+    color: #2E31FF !important;
+    border: 1px solid #2E31FF !important;
+}
+
+.trusted-button-link {
+    background: #2E31FF;
+    color: white;
+}
+
+.trusted-button-link:hover {
+    background: #191ce7;
+    color: white !important;
+}
+
+.trusted-button-link:focus {
+    background: #2E31FF !important;
+}
+
+.ta-success-popup {
+    background: #F4F4FF;
+    color: #2E31FF;
+}
